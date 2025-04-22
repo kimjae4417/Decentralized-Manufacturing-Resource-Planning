@@ -5,3 +5,7 @@ Q
 !contracts/material-inventory.clar,a/0/a034d982aaf9c755f9c254e34295536c9db1c3a7
 N
 contracts/output-tracking.clar,2/4/2414821c509b86f1a787760bc9c074a3fd50104f
+M
+tests/output-tracking.test.ts,f/9/f921b975b1d648b58f6a0587a599bb02905eb0bf
+P
+ tests/material-inventory.test.ts,d/e/de5b1aff70219bca55b72be3ac0b15b039b7283b
